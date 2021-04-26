@@ -2,7 +2,7 @@
 [Portfolio website:](https://ruthdorton.com/portfolio)
 ## Mission to Mars | [GitHub:](https://github.com/RuthLD/Mission_to_Mars)
 Use web scraping to visit and collect the most recent new about the plant Mars. The most recent new article and description, the Featured image, facts about the weather on Mars, and images of the four hemispheres of Mars were the targets for the project.
-* I used BeautifulSoup create a function to visit four different sites to scrape the required data and images. Then I used Flask to create a webpage to display the data with the capability to run a new data scrape.
+* I used BeautifulSoup create a function to visit four different sites to scrape the required data and images. Then I used Flask to create a webpage to display the data with the capability to run a new data scrape. The page html is [here](https://github.com/RuthLD/Mission_to_Mars/blob/main/templates/index.html).
 * Tools: Python, Jupyter Notebook, HTML, Pandas, BeautifulSoup, Flask, Splinter, MongoDB
 ## Surfs Up | [GitHub:](https://github.com/RuthLD/surfs_up)
 The goal of the analysis is to investigate the temperature trends for investors of a surf shop. Weather data from the months of June and December were compared to determine if the business is sustainable year-round.
