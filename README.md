@@ -10,6 +10,7 @@ Using Python to determine the most common plants in New York state using data fr
 * I used Python and Matplotlib to create charts and tables for the ten most common plants by three scientific classification levels: Family, Genus, Species/Scientific Name
 * Tools: Python, Jupyter Notebook, Matplotlib, Pandas
 * ![classification_percent.png](https://github.com/RuthLD/State_Plant_Analysis/blob/main/Resources/classification_percent.png)
+* 🔗[Project Blog Post](https://ruthdorton.com/blog/f/can-i-get-the-common-plants-of-ny-state)
 ## Mission to Mars | [GitHub](https://github.com/RuthLD/Mission_to_Mars)
 Use web scraping to visit and collect the most recent new about the plant Mars. The most recent new article and description, the Featured image, facts about the weather on Mars, and images of the four hemispheres of Mars were the targets for the project.
 * I used BeautifulSoup create a function to visit four different sites to scrape the required data and images. Then I used Flask to create a webpage to display the data with the capability to run a new data scrape. The page html is [here](https://github.com/RuthLD/Mission_to_Mars/blob/main/templates/index.html).
