@@ -1,5 +1,15 @@
 # portfolio
 🔗 [Portfolio website](https://ruthdorton.com/portfolio)
+## UFOs | [GitHub](https://github.com/RuthLD/UFOs)
+Use JavaScript to create a dynamic webpage for information related to UFO sightings. The webpage allows the UFO information to be filtered by five search criteria: Date, City, State, Country, and shape.
+* I created a function in JavaScript that allowed for any combination of the search criteria to be inputted into the webpage and return the results in a table.
+* Tools: JavaScript, HTML
+* ![Enter_site.gif](https://github.com/RuthLD/UFOs/blob/main/Resources/Enter_site.gif)
+## State Plant Analysis | [GitHub](https://github.com/RuthLD/State_Plant_Analysis)
+Using Python to determine the most common plants in New York state using data from the PLANTS Database. The goal was to determine the counts and percentages of the plants recorded in New York state to evaluate biodiversity. 
+* I used Python and Matplotlib to create charts and tables for the ten most common plants by three scientific classivication levels: Family, Genus, Species/Scientific Name
+* Tools: Python, Jupyter Notebook, Matplotlib, Pandas
+* ![classification_percent.png](https://github.com/RuthLD/State_Plant_Analysis/blob/main/Resources/classification_percent.png)
 ## Mission to Mars | [GitHub](https://github.com/RuthLD/Mission_to_Mars)
 Use web scraping to visit and collect the most recent new about the plant Mars. The most recent new article and description, the Featured image, facts about the weather on Mars, and images of the four hemispheres of Mars were the targets for the project.
 * I used BeautifulSoup create a function to visit four different sites to scrape the required data and images. Then I used Flask to create a webpage to display the data with the capability to run a new data scrape. The page html is [here](https://github.com/RuthLD/Mission_to_Mars/blob/main/templates/index.html).
