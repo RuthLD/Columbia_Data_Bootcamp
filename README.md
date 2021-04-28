@@ -7,7 +7,7 @@ Use JavaScript to create a dynamic webpage for information related to UFO sighti
 * ![Enter_site.gif](https://github.com/RuthLD/UFOs/blob/main/Resources/Enter_site.gif)
 ## State Plant Analysis | [GitHub](https://github.com/RuthLD/State_Plant_Analysis)
 Using Python to determine the most common plants in New York state using data from the PLANTS Database. The goal was to determine the counts and percentages of the plants recorded in New York state to evaluate biodiversity. 
-* I used Python and Matplotlib to create charts and tables for the ten most common plants by three scientific classivication levels: Family, Genus, Species/Scientific Name
+* I used Python and Matplotlib to create charts and tables for the ten most common plants by three scientific classification levels: Family, Genus, Species/Scientific Name
 * Tools: Python, Jupyter Notebook, Matplotlib, Pandas
 * ![classification_percent.png](https://github.com/RuthLD/State_Plant_Analysis/blob/main/Resources/classification_percent.png)
 ## Mission to Mars | [GitHub](https://github.com/RuthLD/Mission_to_Mars)
