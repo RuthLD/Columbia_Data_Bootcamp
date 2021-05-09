@@ -1,5 +1,15 @@
 # portfolio
 🔗 [Portfolio website](https://ruthdorton.com/portfolio)
+## Mapping Earthquakes | [GitHub](https://github.com/RuthLD/Mapping_Earthquakes)
+Using the Mapbox API create an interactive map with Leafletjs to display the last seven days of earthquake from GeoJson data from earthquake.usgs.gov.
+* I created an interactive map with three options for the base map and three layer that can be changed by the user to view the data.
+* Tools: JavaScript, HTML, CSS, Mapbox API, Leafletjs, geoJSON
+* ![Change_Map.gif](https://github.com/RuthLD/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Resources/Change_Map.gif)
+## Belly Button Biodiversity Study | [GitHub](https://ruthld.github.io/plotly_chart/)
+Use plotly and JavaScript to create a webpage showing the samples for each volunteer by the individual ID.
+* I created functions in JavaScript that allowed for the volunteer number to be changed using a drop-down selection on the webpage. This updated three charts to reflect the results by volunteer.
+* Tools: JavaScript, HTML, Plotly, 
+* ![Defult_site.gif](https://github.com/RuthLD/plotly_chart/blob/master/Resources/Defult_site.gif)
 ## UFOs | [GitHub](https://github.com/RuthLD/UFOs)
 Use JavaScript to create a dynamic webpage for information related to UFO sightings. The webpage allows the UFO information to be filtered by five search criteria: Date, City, State, Country, and shape.
 * I created a function in JavaScript that allowed for any combination of the search criteria to be inputted into the webpage and return the results in a table.
