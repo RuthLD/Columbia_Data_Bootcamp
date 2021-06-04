@@ -6,15 +6,15 @@ The purpose of this analysis was to use PySpark to perform the ETL process to ex
 * ![paid_reviews.png](https://github.com/RuthLD/Amazon_Vine_Analysis/blob/main/Resources/paid_reviews.png)
 * Tools: Postgres, Jupyter Notebook, PySpark
 ## MechaCar Statistical Analysis | [Github](https://github.com/RuthLD/MechaCar_Statistical_Analysis)
-A statistical analysis of MechaCar vehicles and a study designed to compare the MechaCar vehicles to competitors in R.
-* Use Linear Regression to predict MPG for MechaCar vehicles and t.tests to determine if there is a statistical difference in the different manufactouring lots of suspension coils.
+A statistical analysis of MechaCar vehicles and a study designed to compare the MechaCar vehicles to R.
+* Use Linear Regression to predict MPG for MechaCar vehicles and t.tests to determine if there is a statistical difference in the different manufacturing lots of suspension coils.
 * ![Fig_1.png](https://github.com/RuthLD/MechaCar_Statistical_Analysis/blob/main/Resources/Fig_1.png)
 * Provide a study ouline for comparing MechaCar vehicles to a competitor.
 * Tools: R
 ## Bikesharing | [GitHub](https://github.com/RuthLD/bikesharing ) 🔗[Tableau Story](https://public.tableau.com/app/profile/ruth.dorton/viz/NYCCitiBikeChallenge_16208606980650/NYCCitiBikeChallenge)
-Using data from the Citi Bike program in New York City to create visualizations in Tableau for an investor presentation.
-* Build insightful charts for an ivestor presentation using Tableau.
-* Use data from a peak summer month in New York City from Citi Biki to elauate who would use a bike-sharing program and when the most active ridership would be. 
+Used data from the Citi Bike program in New York City to create visualizations in Tableau for an investor presentation.
+* Build insightful charts for an investor presentation using Tableau.
+* Use data from a peak summer month in New York City from Citi Biki to evaluate who would use a bike-sharing program and when the most active ridership would be. 
 * ![NYC%20CitiBike%20Challenge_7.png](https://github.com/RuthLD/bikesharing/blob/main/Resources/NYC%20CitiBike%20Challenge_7.png) 
 ## Mapping Earthquakes | [GitHub](https://github.com/RuthLD/Mapping_Earthquakes)
 Using the Mapbox API create an interactive map with Leafletjs to display the last seven days of earthquake from GeoJson data from earthquake.usgs.gov.
