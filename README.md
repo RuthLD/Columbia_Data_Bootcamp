@@ -1,5 +1,6 @@
 # portfolio
 🔗 [Portfolio website](https://ruthdorton.com/portfolio)
+🔗[Tableau Portfolio](https://public.tableau.com/profile/ruth.dorton#!/?newProfile=&activeTab=0)
 ## Amazon Vine Analysis | [Github](https://github.com/RuthLD/Amazon_Vine_Analysis)
 The purpose of this analysis was to use PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. 
 * PySpark to determine if there is any bias toward favorable reviews from Vine members in the Digital Video Game Reviews dataset
