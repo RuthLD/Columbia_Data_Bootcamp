@@ -1,4 +1,4 @@
-# portfolio
+# Project Summaries
 🔗 [Portfolio website](https://ruthdorton.com/portfolio)
 🔗[Tableau Portfolio](https://public.tableau.com/profile/ruth.dorton#!/?newProfile=&activeTab=0)
 ## Amazon Vine Analysis | [Github](https://github.com/RuthLD/Amazon_Vine_Analysis)
